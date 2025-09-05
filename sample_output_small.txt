@@ -1,2 +1,2 @@
 Final Secret: 3
-All Subset Results: { '3': 3, '30': 1 }
+All Subset Results: { '3': 4 }
